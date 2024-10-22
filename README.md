@@ -1,1 +1,3 @@
-# CS-361-Project---Threat-Intelligence-
+Group: SkyNet
+
+Members: Nick, Tim, Josh, Temuulen
